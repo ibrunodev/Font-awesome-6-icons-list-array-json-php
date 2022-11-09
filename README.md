@@ -2,3 +2,4 @@
 
 Font awesome 6 icons list in JSON and PHP array
 
+Free and PRO versions
